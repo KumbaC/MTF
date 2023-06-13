@@ -1,0 +1,45 @@
+<?php
+
+return [
+
+    'main_navigation'               => 'MAIN NAVIGATION',
+    'blog'                          => 'Blog',
+    'pages'                         => 'Pages',
+    'account_settings'              => 'ACCOUNT SETTINGS',
+    'profile'                       => 'Profile',
+    'change_password'               => 'Change Password',
+    'multilevel'                    => 'Multi Level',
+    'level_one'                     => 'Level 1',
+    'level_two'                     => 'Level 2',
+    'level_three'                   => 'Level 3',
+    'labels'                        => 'LABELS',
+    'important'                     => 'Important',
+    'warning'                       => 'Warning',
+    'information'                   => 'Information',
+    'Operaciones'                   => 'Operations',
+    'Estadisticas'                  => 'Statistics',
+    'Proveedores'                   => 'Suppliers',
+    'Configuración'                 => 'Configuration',
+    'Detalles de movimiento'        => 'Movement details',
+    'Resumen por transaccion'       => 'Summary by transaction',
+    'Resumen por Proveedor'         => 'Summary by Provider',
+    'Resumen por Caja'              => 'Summary by box',
+    'Resumen por Grupo'             => 'Summary by Group',
+    'Conciliacion por Grupo'        => 'Group Reconciliation',
+    'Transacciónes'                 => 'Transactions',
+    'Transacciónes en efectivo'     => 'Cash transactions',
+    'Transacciónes Master'          => 'Master Transactions',
+    'Transacciónes Proveedores'     => 'Supplier Transactions',
+    'Credito a Caja'                => 'Credit to Cash',
+    'Usuarios'                      => 'Users',
+    'Roles'                         => 'Roles',
+    'Grupos'                        => 'Groups',
+    'Cajas'                         => 'Boxes',
+    'Tipo de movimiento'            => 'Type movement',
+    'Tipo de monedas'               => 'Types of coins',
+    'Buscar menu'                   => 'Search Menu',
+    'Permisos'                      => 'Permissions',
+    'Conciliacion por Proveedor'    => 'Supplier Reconciliation'
+
+
+];
